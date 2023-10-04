@@ -20,9 +20,7 @@
 
 [CHECK](https://www.aladin.co.kr/robots.txt) Aladin's robots.txt
 
-<br>
-
-* User-agent: *
+### User-agent: *
 * Disallow: /mobile/
 * Disallow: /js/
 * Disallow: /aaintraweb/
@@ -47,53 +45,35 @@
 * Disallow: /*.swf$
 * Allow: /
   
-<br>
-
-* User-Agent: QuerySeekerSpider ( http://queryseeker.com/bot.html )
+### User-Agent: QuerySeekerSpider ( http://queryseeker.com/bot.html )
 * Disallow: /
 
-<br>
- 
-* User-agent: AhrefsBot
+### User-agent: AhrefsBot
 * Disallow: /
   
-<br>
-
-* User-agent: MJ12bot
+### User-agent: MJ12bot
 * Disallow: /
   
-<br>
+### User-agent: SemrushBot
+* Disallow: /
 
-* User-agent: SemrushBot
+### User-agent: Baiduspider
 * Disallow: /
   
-<br>
-
-* User-agent: Baiduspider
+### User-agent: Ezooms
 * Disallow: /
   
-<br>
-
-* User-agent: Ezooms
+### User-agent: YandexBot
 * Disallow: /
   
-<br>
-
-* User-agent: YandexBot
+### User-agent: ltx71
 * Disallow: /
   
-<br>
-
-* User-agent: ltx71
+### User-agent: zgrab/0.x
 * Disallow: /
-  
-<br>
-
-* User-agent: zgrab/0.x
-* Disallow: /
-
 
 Sitemap: https://www.aladin.co.kr/ucl_editor/util/sitemap/sitemap.xml
+
 
 ## Role
  ///////    //      //     //////        ///       /////////
